@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] Pizza
+- [ ] Walter
+- [ ] methe
+  - no eating methe tho
