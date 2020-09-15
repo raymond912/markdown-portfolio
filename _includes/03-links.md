@@ -1,1 +1,1 @@
-[Free V-Bucks](https://dominos.ca)
+[Free V-Bucks](https://pizzahut.ca)
